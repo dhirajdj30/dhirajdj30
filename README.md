@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhirajdj30
 - 👀 I’m interested in Databases, cloud computing and computer network
 - 🌱 I’m currently learning Web development and data science using python libraries 
-- 💞️ I’m looking to collaborate on devops projects.
 - 📫 M.No: +919356828559 Email: dhirajdj30@gmail.com insta: dhirajjagtappatil
 
 <!---
