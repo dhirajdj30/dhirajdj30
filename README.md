@@ -1,9 +1,45 @@
-- 👋 Hi, I’m @dhirajdj30
-- 👀 I’m interested in Databases, cloud computing and computer network
-- 🌱 I’m currently learning Web development and data science using python libraries 
-- 📫 M.No: +919356828559 Email: dhirajdj30@gmail.com insta: dhirajjagtappatil
+# Hi, I'm Dhiraj Jagtap 👋
 
-<!---
-dhirajdj30/dhirajdj30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 MLOps Engineer | AI/ML Enthusiast | DevOps & Kubernetes Practitioner
+
+---
+
+### About Me
+I am passionate about building scalable AI/ML systems and bridging the gap between data science and software engineering. Currently working on deploying cutting-edge models using Kubernetes, Helm, and cloud-native technologies. Deeply interested in data handling, feature engineering, and productionizing ML workflows.
+
+---
+
+### 🛠️ Skills & Technologies
+- **Languages:** Python, Bash, YAML
+- **AI/ML:** Model deployment, MLOps, Data Science fundamentals
+- **DevOps:** Kubernetes, Helm, Docker, Kind, Podman
+- **Cloud & Tools:** Git, CI/CD pipelines, Monitoring & Logging
+- **Other:** Linux, Networking, System Architecture
+
+---
+
+### 💼 Current Role
+**MLOps Engineer** @ Qualys  
+Deploying and managing ML models and infrastructure to drive secure, scalable AI solutions.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Jagtap-blue?logo=linkedin)](https://linkedin.com/in/dhirajjagtap)  
+[![GitHub](https://img.shields.io/badge/GitHub-dhirajjagtap-black?logo=github)](https://github.com/dhirajjagtap)  
+[![Twitter](https://img.shields.io/badge/Twitter-@DhirajJagtap-blue?logo=twitter)](https://twitter.com/DhirajJagtap)  
+
+---
+
+### 📊 GitHub Stats
+
+![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajjagtap&show_icons=true&theme=radical)
+
+---
+
+### 💡 Quote
+> "Strive not to be a success, but rather to be of value." – Albert Einstein
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch. 😊
