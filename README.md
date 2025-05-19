@@ -25,15 +25,14 @@ Deploying and managing ML models and infrastructure to drive secure, scalable AI
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Jagtap-blue?logo=linkedin)](https://linkedin.com/in/dhirajjagtap)  
-[![GitHub](https://img.shields.io/badge/GitHub-dhirajjagtap-black?logo=github)](https://github.com/dhirajjagtap)  
-[![Twitter](https://img.shields.io/badge/Twitter-@DhirajJagtap-blue?logo=twitter)](https://twitter.com/DhirajJagtap)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Jagtap-blue?logo=linkedin)](https://www.linkedin.com/in/dhiraj-jagtap-297a7322b/)
+[![GitHub](https://img.shields.io/badge/GitHub-dhirajjagtap-black?logo=github)](https://github.com/dhirajdj30)   
 
 ---
 
 ### 📊 GitHub Stats
 
-![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajjagtap&show_icons=true&theme=radical)
+![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajdj30&show_icons=true&theme=radical)
 
 ---
 
