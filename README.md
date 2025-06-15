@@ -37,7 +37,10 @@ Deploying and managing ML models and infrastructure to drive secure, scalable AI
 ---
 
 ### 💡 Quote
-> "Strive not to be a success, but rather to be of value." – Albert Einstein
+> "I code what I must, I build what I can—
+And when the pressure hits, I rise like a man.
+My mind is my spinach, my focus the sail—
+No storm, no doubt, no bug makes me fail."
 
 ---
 
