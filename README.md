@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codepen.svg" /> Tech Arsenal
 
 Here’s the stack I sculpt systems with:
 
@@ -23,7 +23,7 @@ Here’s the stack I sculpt systems with:
 
 ---
 
-## ⚡ About Me
+## <img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lightning.svg" /> About Me
 
 I build **ML infrastructure**, **LLM workflows**, and **Agentic AI tooling** at scale.
 Always orbiting around pipelines, reproducibility, and smooth developer experience.
@@ -36,7 +36,7 @@ Always orbiting around pipelines, reproducibility, and smooth developer experien
 
 ---
 
-## 🚀 Highlight Projects
+## <img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rocket.svg" /> Highlight Projects
 
 | Project                      | Description                                                                        |
 | ---------------------------- | ---------------------------------------------------------------------------------- |
@@ -47,13 +47,19 @@ Always orbiting around pipelines, reproducibility, and smooth developer experien
 
 ---
 
-## 🎛️ GitHub Analytics
+## <img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" /> GitHub Analytics
 
-<div align="center"> <!-- GitHub Stats --> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhirajdj30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <!-- Top Languages --> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhirajdj30&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhirajdj30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhirajdj30&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🧩 Aesthetic Section
+## <img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/airplayaudio.svg" /> Aesthetic Section
 
 > Systems aren’t built.
 > They evolve — like quiet ecosystems of data, code, and intent.
@@ -61,13 +67,16 @@ Always orbiting around pipelines, reproducibility, and smooth developer experien
 
 ---
 
-## 🔗 Connect
+## <img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/link.svg" /> Connect
 
-🌐 [Portfolio](https://dhirajdj30.github.io/)
-📬 Email: dhirajdj30@gmail.com
+**<img width="15" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetarchive.svg" /> Portfolio:**
+[https://dhirajdj30.github.io/](https://dhirajdj30.github.io/)
+
+**<img width="15" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maildotru.svg" /> Email:**
+[dhirajdj30@gmail.com](mailto:dhirajdj30@gmail.com)
 
 ---
 
-## 🖤 Thank you for visiting
+## <img width="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heart.svg" /> Thank You for Visiting
 
 Elegance in engineering begins with readability — both in systems and in life.
