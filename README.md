@@ -34,8 +34,8 @@ Always orbiting around pipelines, reproducibility, and smooth developer experien
 
 | Project                      | Description                                                       |
 | ---------------------------- | ----------------------------------------------------------------- |
-| **ML Pipeline Orchestrator** | End-to-end automated ML lifecycle using Kubeflow + Airflow.       |
-| **LLM Infra @ Qualys**       | Optimized VLLM inference stack for scale + performance.           |
+| **ML Pipeline Orchestrator** | End-to-end automated ML lifecycle using MLFlow.       |
+| **LLM Infra**       | VLLM inference Stack.           |
 | **MLflow Plugins**           | Internal plugins for registry, tracking, and workflow automation. |
 | **Portfolio Web**            | Cinematic monochrome Next.js personal site.                       |
 
