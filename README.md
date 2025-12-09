@@ -99,6 +99,7 @@ These inline SVGs render directly on GitHub and carry the same visual language a
 
 These monochrome inline SVGs will replace all emojis and external icons:
 
+<div>
 
 <!-- Code Icon -->
 <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 4L3 9l4 5M11 4l4 5-4 5"/></svg>
@@ -124,7 +125,7 @@ These monochrome inline SVGs will replace all emojis and external icons:
 <!-- Heart Icon -->
 <svg width="18" height="18" fill="currentColor"><path d="M9 15s6-4 6-8a3 3 0 00-6 0 3 3 0 00-6 0c0 4 6 8 6 8z"/></svg>
 
-
+</div>
 ---
 
 # Final README With Pure Inline SVG Icons
