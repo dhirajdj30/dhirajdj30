@@ -1,12 +1,3 @@
-Perfect.
-Let’s forge a **sleek, dark-aesthetic, badge-powered, animated-header GitHub profile README** tailored for your username **`dhirajdj30`**.
-It’ll look premium, modern, and engineered — just like your work.
-
-Below is a fully ready **`README.md`** you can paste into your special repo:
-`dhirajdj30/dhirajdj30`.
-
----
-
 # 🌑 DJ • MLOps & LLM Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&vCenter=true&width=500&lines=Automating+ML+Lifecycles;Designing+LLM+Workflows;Building+Agentic+AI+Tools;Scaling+Models+in+Production" />
@@ -58,13 +49,7 @@ Always orbiting around pipelines, reproducibility, and smooth developer experien
 
 ## 🎛️ GitHub Analytics
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dhirajdj30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajdj30&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<div align="center"> <!-- GitHub Stats --> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhirajdj30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <!-- Top Languages --> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhirajdj30&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 
 ---
 
@@ -78,8 +63,8 @@ Always orbiting around pipelines, reproducibility, and smooth developer experien
 
 ## 🔗 Connect
 
-🌐 Portfolio [↗](https://dhirajdj30.github.io/)
-📬 Email: *add your email*
+🌐 [Portfolio](https://dhirajdj30.github.io/)
+📬 Email: dhirajdj30@gmail.com
 
 ---
 
